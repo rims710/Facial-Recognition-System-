@@ -9,4 +9,4 @@ OpenCV (for webcam access and preprocessing)
 TensorFlow (model backend)
 NumPy, Pandas, and Pillow
 TDQM, OS, Threading, Time
-These components allow smooth implementation, real-time frame analysis, and deep learning inference.
+These components allow smooth implementation, real-time frame analysis, and deep learning inference, so make sure to fulfil these requirements.
